@@ -1,5 +1,5 @@
 
-<p align = "center"><img  style="width:100%; height:100%; object-fit:cover;" src="https://i.pinimg.com/originals/b4/a1/91/b4a191e1d7f4d288f3b1204b159a9ff8.gif"></p>
+<img  style="width:100%; height:120px; object-fit:cover; margin:20px 0px" src="https://i.pinimg.com/originals/b4/a1/91/b4a191e1d7f4d288f3b1204b159a9ff8.gif">
 
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="28px"> , I am Laysson </h1>
 
