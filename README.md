@@ -1,16 +1,15 @@
-
-<p align = "center"><img  style="width:600px; height:140px; object-fit:cover;" src="https://i.pinimg.com/originals/b4/a1/91/b4a191e1d7f4d288f3b1204b159a9ff8.gif"></p>
-
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="28px"> , I am Laysson </h1>
-
+<p align='center'><img  style="width:600px;" src="https://cdna.artstation.com/p/assets/images/images/029/012/890/original/byron-yu-2b-combo-robots-300-height.gif?1596188684"></p>
 <p align="center" width="150px"> I have just started my career as a trainee software developer after finishing my studies in 2021.<br>I am currently studying a degree in Computer Science and Informatics.</p>
 
-
+<br>
 
 <!-- Languages -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LP-React&layout=compact&=TSQL&theme=chartreuse-dark"></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LP-React&layout=compact&=TSQL&theme=chartreuse-dark">
+</p>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=LP-React&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=LP-React&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400px"></p> 
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=LP-React&theme=chartreuse-dark"></p>
 
