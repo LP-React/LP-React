@@ -1,27 +1,28 @@
-<h1 align="center"> Hi , I am Laysson </h1>
+<h1 align="center"> Hi  , I am Laysson</h1>
 <p align='center'><img  style="width:600px;" src="https://cdna.artstation.com/p/assets/images/images/029/012/890/original/byron-yu-2b-combo-robots-300-height.gif?1596188684"></p>
 <p align="center" width="150px"> I have just started my career as a trainee software developer after finishing my studies in 2021.<br>I am currently studying a degree in Computer Science and Informatics.</p>
 
 ### 🛠 Tech Stack
 ---
+
 <center>
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
-![Babel](https://img.shields.io/badge/-Babel.js-05122A?style=flat&logo=babel)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
+<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
+<img src="https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack">
+<img src="https://img.shields.io/badge/-Babel.js-05122A?style=flat&logo=babel">
+<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=spring&logoColor=6DB33F)&nbsp;
-![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate&logoColor=8f8f7f)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse%20IDE-05122A?style=flat&logo=eclipse&logoColor=50508f)&nbsp; 
+<img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518">
+<img src="https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=spring&logoColor=6DB33F">
+<img src="https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate&logoColor=8f8f7f">
+<img src="https://img.shields.io/badge/-Eclipse%20IDE-05122A?style=flat&logo=eclipse&logoColor=50508f"> 
 
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1">
+<img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql">
 
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+<img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">
 
 </center>
 
