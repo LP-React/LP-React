@@ -9,21 +9,24 @@
 <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
 <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
-<img src="https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack">
-<img src="https://img.shields.io/badge/-Babel.js-05122A?style=flat&logo=babel">
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
+<img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
+<img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest">
 </p>
 <p style="text-align:center">
 <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518">
 <img src="https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=spring&logoColor=6DB33F">
-<img src="https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate&logoColor=8f8f7f">
 <img src="https://img.shields.io/badge/-Eclipse%20IDE-05122A?style=flat&logo=eclipse&logoColor=50508f"> 
 </p>
 
 <p style="text-align:center">
-<img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1">
+<img src="https://img.shields.io/badge/-SQL_Server-05122A?style=flat&logo=amazondocumentdb&logoColor=4479A1">
 <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql">
 </p>
+
+<p style="text-align:center">
+<img src="https://img.shields.io/badge/-.NET_Core-05122A?style=flat&logo=dotnet">
+</p>
+
 
 <p style="text-align:center">
 <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">
