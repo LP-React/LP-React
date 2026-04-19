@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/-JavaScript_ES6+-05122A?style=flat&logo=javascript">
 <img src="https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss&logoColor=1572B6">
 <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5">
-<img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6">
+<img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css&logoColor=1572B6">
 </p>
 
 #### Backend & Databases
@@ -39,7 +39,7 @@
 
 #### DevOps & Tools
 <p align="left">
-<img src="https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure">
+<img src="https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure&logoColor=white">
 <img src="https://img.shields.io/badge/-GitHub_Actions-05122A?style=flat&logo=githubactions">
 <img src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel">
 <img src="https://img.shields.io/badge/-Git_Flow-05122A?style=flat&logo=git">
